@@ -1,1 +1,1 @@
-# cypress-auto-testing
+# cypress-auto-testing project
