@@ -1,1 +1,0 @@
-# cypress-auto-testing project
